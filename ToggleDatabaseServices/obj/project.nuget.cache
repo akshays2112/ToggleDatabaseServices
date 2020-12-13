@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3wv7t1V+76Qb+J2pRIJZdpwfsBgUfUZddwnlb326pryBPw0Kd8hfSn1tofbOy5EDJHcNQezVgSCI56r8tLoug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aksha\\source\\repos\\ToggleDatabaseServices\\ToggleDatabaseServices\\ToggleDatabaseServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aksha\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\aksha\\.nuget\\packages\\system.serviceprocess.servicecontroller\\4.7.0\\system.serviceprocess.servicecontroller.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
